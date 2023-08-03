@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I am a 3rd year student [HUIT](https://www.facebook.com/DHCongthuong).
+- ✍ I am a 4th year student [HUIT](https://www.facebook.com/DHCongthuong).
 
 <br />
 
