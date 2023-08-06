@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Như Ý</h1>
 <p align="center">
-  <h3 align="center">A data scientist from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A data analytics from Vietnam 🇻🇳 </h3>
 </p>
 
 
